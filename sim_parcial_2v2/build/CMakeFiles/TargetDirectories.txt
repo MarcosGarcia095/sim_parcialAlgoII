@@ -1,0 +1,3 @@
+/home/marcos/Documentos/algoritmos/C++/sim_parcial_2v2/build/CMakeFiles/ProyectoCosmeticos.dir
+/home/marcos/Documentos/algoritmos/C++/sim_parcial_2v2/build/CMakeFiles/edit_cache.dir
+/home/marcos/Documentos/algoritmos/C++/sim_parcial_2v2/build/CMakeFiles/rebuild_cache.dir
